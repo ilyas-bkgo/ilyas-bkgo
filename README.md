@@ -1,56 +1,64 @@
-👋 Hi, I’m Ilyas
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1200&center=true&vCenter=true&width=420&lines=Backend+Developer;Clean+APIs+over+Buzzwords" alt="Typing SVG" /> </p>
-🌐 About Me
+# 👋 Hi, I’m Ilyas
+
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=A6E3A1&center=true&vCenter=true&width=450&lines=Backend+Developer;Clean+APIs+over+Buzzwords" alt="Typing SVG" /> 
+</p>
+
+## 🌐 About Me
 
 I’m a backend-focused developer building REST APIs with an emphasis on clean architecture, data modeling, and authentication.
 
-I spend more time on:
+**I spend more time on:**
+- How data flows through the system
+- How APIs are structured and secured
+- How code stays readable six months later
 
-how data flows through the system
-how APIs are structured and secured
-how code stays readable six months later
+*...and less time on frontend polish and trends.*
 
-…and less time on frontend polish and trends.
+- **Backend:** Python, FastAPI, SQL
+- **Databases:** Schema-first design, CRUD systems
+- **Environment:** Linux (Fedora), terminal-first workflow
+- **Tools:** Neovim, tmux, Git
 
-Backend: Python, FastAPI, SQL
-Databases: schema-first design, CRUD systems
-Environment: Linux (Fedora), terminal-first workflow
-Tools: Neovim, tmux, Git
+> I aim to write code that is boring, predictable, and easy to maintain.
 
-I aim to write code that is boring, predictable, and easy to maintain.
+---
 
-🚀 Projects
-🧾 Expense Tracker (CLI + DB)
-Python application with SQLite
-Add, edit, delete, and list expenses
-Input validation and date handling
-Focus on separation of concerns (services / repository / db)
+## 🚀 Projects
 
-Tech: Python, SQLite
+### 🧾 Expense Tracker (CLI + DB)
+A terminal-based Python application utilizing SQLite for robust local data storage.
+- Full CRUD operations (Add, edit, delete, and list expenses)
+- Strict input validation and native date handling
+- Deep focus on **Separation of Concerns** (Services / Repository / DB layers)
 
-🔐 Authentication API
-REST API built with FastAPI
-JWT-based authentication
-Password hashing and protected routes
-Clean project structure (models, schemas, auth utilities)
+**Tech:** Python, SQLite
 
-Tech: FastAPI, Python, SQL
+### 🔐 Authentication API
+A secure REST API built to handle modern web authentication workflows.
+- JWT-based token authentication
+- Secure password hashing and route protection
+- Clean, decoupled project structure (Models, Schemas, Auth utilities)
 
-🛠️ Currently Working On
-Improving API structure and error handling
-Moving from SQLite to PostgreSQL
-Preparing projects for deployment-ready setups
-🛠️ Tech Stack
+**Tech:** FastAPI, Python, SQL
 
-Backend
+---
 
-Python
-FastAPI
-JavaScript (basic usage)
+## 🛠️ Currently Working On
+- Improving API structure and asynchronous error handling
+- Migrating data layers from SQLite to **PostgreSQL**
+- Preparing backend services for deployment-ready environments
 
-Database & Tools
+---
 
-SQL (SQLite, learning PostgreSQL)
-Linux
-Git
+## ⚙️ Tech Stack
+
+| Backend | Database & Tools |
+| :--- | :--- |
+| 🐍 Python | 🗄️ SQL (SQLite, learning PostgreSQL) |
+| ⚡ FastAPI | 🐧 Linux |
+| 🟨 JavaScript *(Basic usage)* | 🔀 Git |
+
+---
+
 <p align="center"> <i>"Simplicity is the ultimate sophistication."</i> </p>
