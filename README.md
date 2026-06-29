@@ -51,14 +51,10 @@ A secure REST API built to handle modern web authentication workflows.
 
 ---
 
-## ⚙️ Tech Stack
-
-| Backend | Database & Tools |
-| :--- | :--- |
-| 🐍 Python | 🗄️ SQL (SQLite, learning PostgreSQL) |
-| ⚡ FastAPI | 🐧 Linux |
-| 🟨 JavaScript *(Basic usage)* | 🔀 Git |
-
----
+⚙️ Tech Stack (Fixed Icons)
+Backend
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
+Database & Tools
+<p> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 
 <p align="center"> <i>"Simplicity is the ultimate sophistication."</i> </p>
