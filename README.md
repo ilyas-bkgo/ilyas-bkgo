@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Ilyas
+# Hi, I’m Ilyas
 
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=A6E3A1&center=true&vCenter=true&width=450&lines=Backend+Developer;Clean+APIs+over+Buzzwords" alt="Typing SVG" /> 
 </p>
 
-## 🌐 About Me
+## About Me
 
 I’m a backend-focused developer building REST APIs with an emphasis on clean architecture, data modeling, and authentication.
 
