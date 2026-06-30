@@ -9,16 +9,16 @@
 I’m a backend-focused developer building REST APIs with an emphasis on clean architecture, data modeling, and authentication.
 
 **I spend more time on:**
-- How data flows through the system
-- How APIs are structured and secured
-- How code stays readable six months later
+- How data flows through a system  
+- How APIs are structured and secured  
+- How code stays readable six months later  
 
-*...and less time on frontend polish and trends.*
+*…and less time on frontend polish, focusing instead on API design and system behavior.*
 
-- **Backend:** Python, FastAPI, SQL
-- **Databases:** Schema-first design, CRUD systems
-- **Environment:** Linux (Fedora), terminal-first workflow
-- **Tools:** Neovim, tmux, Git
+- **Backend:** Python, FastAPI, SQL  
+- **Databases:** Schema-first design, CRUD systems  
+- **Environment:** Linux (Fedora), terminal-first workflow  
+- **Tools:** Neovim, tmux, Git  
 
 > I aim to write code that is boring, predictable, and easy to maintain.
 
@@ -27,27 +27,36 @@ I’m a backend-focused developer building REST APIs with an emphasis on clean a
 ## 🚀 Projects
 
 ### 🧾 Expense Tracker (CLI + DB)
-A terminal-based Python application utilizing SQLite for robust local data storage.
-- Full CRUD operations (Add, edit, delete, and list expenses)
+A terminal-based Python application using SQLite for reliable local persistence.
+- Full CRUD operations (add, edit, delete, list expenses)
 - Strict input validation and native date handling
-- Deep focus on **Separation of Concerns** (Services / Repository / DB layers)
+- Clear **Separation of Concerns** (Services / Repository / DB layers)
 
 **Tech:** Python, SQLite
 
+---
+
 ### 🔐 Authentication API
-A secure REST API built to handle modern web authentication workflows.
+A secure REST API designed around modern authentication practices.
 - JWT-based token authentication
 - Secure password hashing and route protection
-- Clean, decoupled project structure (Models, Schemas, Auth utilities)
+- Clean, decoupled architecture (Models, Schemas, Auth utilities)
 
 **Tech:** FastAPI, Python, SQL
 
 ---
 
 ## 🛠️ Currently Working On
-- Improving API structure and asynchronous error handling
+- Improving API structure and async error handling
 - Migrating data layers from SQLite to **PostgreSQL**
 - Preparing backend services for deployment-ready environments
+
+---
+
+## 📚 Currently Learning
+- Dart fundamentals and the Flutter framework  
+- Building simple Flutter clients to consume REST APIs  
+- Understanding client–server interaction from both sides  
 
 ---
 
@@ -57,7 +66,6 @@ A secure REST API built to handle modern web authentication workflows.
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ### Database & Tools
@@ -68,6 +76,12 @@ A secure REST API built to handle modern web authentication workflows.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+### 🌱 Learning
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
 <br />
 
-<p align="center"> <i>"Simplicity is the ultimate sophistication."</i> </p>
+<p align="center"><i>"Simplicity is the ultimate sophistication."</i></p>
