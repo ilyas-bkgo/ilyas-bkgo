@@ -14,7 +14,7 @@ Backend-focused developer building REST APIs with FastAPI and async SQLAlchemy, 
 
 **Job Application Tracker** — Full-stack Kanban board: FastAPI/async SQLAlchemy backend, React 19 + TypeScript frontend with drag-and-drop and analytics dashboard.
 
-**[My_portfolio](https://github.com/ilyas-bkgo/My_portfolio)** — Neovim-themed portfolio site with live GitHub stats, EN/FR i18n, and a generated bilingual resume. [Live](https://my-portfolio-five-iota-48.vercel.app/) **
+**[My_portfolio](https://github.com/ilyas-bkgo/My_portfolio)** — Neovim-themed portfolio site with live GitHub stats, EN/FR i18n, and a generated bilingual resume. [Live](https://my-portfolio-five-iota-48.vercel.app/)
 
 ---
 
