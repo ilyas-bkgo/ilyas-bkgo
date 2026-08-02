@@ -22,7 +22,7 @@ Backend-focused developer building REST APIs with FastAPI and async SQLAlchemy, 
 
 Fedora · Hyprland · kitty · Catppuccin Mocha everywhere
 
-In my free time I like ricing my setup — you can catch some of it on [r/unixporn](https://www.reddit.com/r/LinuxPorn/s/qXJEytKL4w) **.
+In my free time I like ricing my setup — you can catch some of it on [r/unixporn](https://www.reddit.com/r/LinuxPorn/s/qXJEytKL4w).
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
