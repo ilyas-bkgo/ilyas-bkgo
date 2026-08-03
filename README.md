@@ -20,7 +20,7 @@ Backend-focused developer building REST APIs with FastAPI and async SQLAlchemy, 
 
 ### Setup
 
-Fedora · Hyprland · kitty · Catppuccin Mocha everywhere
+Fedora · Hyprland · kitty 
 
 In my free time I like ricing my setup — you can catch some of it on [r/unixporn](https://www.reddit.com/r/LinuxPorn/s/qXJEytKL4w).
 
