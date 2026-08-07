@@ -1,26 +1,16 @@
 # Ilyas fed
-
-Backend-focused developer building REST APIs with FastAPI and async SQLAlchemy, and shipping full-stack apps with React/TypeScript. Trilingual (Arabic, French, English) — building toward freelance backend work with a MENA focus.
-
-**Stack:** FastAPI · async SQLAlchemy 2.0 · PostgreSQL · React 19 · TypeScript · Tailwind · Docker · Go
-
----
+Enjoying learning and building things that work.
 
 ### Recent projects
-
 **[devcheck](https://github.com/ilyas-bkgo/devcheck)** — Go CLI that validates a dev environment (tools, paths, env vars, network services) against a YAML config. Timeout-protected checks, TTY-aware output, tested against pure functional core.
-
 **[expense-splitter-api](https://github.com/ilyas-bkgo/expense-splitter-api)** — FastAPI + PostgreSQL + Docker service that settles group debts with a greedy max-heap simplification algorithm.
-
 **Job Application Tracker** — Full-stack Kanban board: FastAPI/async SQLAlchemy backend, React 19 + TypeScript frontend with drag-and-drop and analytics dashboard.
-
-**[My_portfolio](https://github.com/ilyas-bkgo/My_portfolio)** — Neovim-themed portfolio site with live GitHub stats, EN/FR i18n, and a generated bilingual resume. [Live](https://my-portfolio-five-iota-48.vercel.app/)
 
 ---
 
 ### Setup
-
-Fedora · Hyprland · kitty 
+Fedora · Sway · kitty
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
 
 In my free time I like ricing my setup — you can catch some of it on [r/unixporn](https://www.reddit.com/r/LinuxPorn/s/qXJEytKL4w).
 
