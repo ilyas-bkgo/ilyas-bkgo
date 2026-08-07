@@ -2,18 +2,16 @@
 Enjoying learning and building things that work.
 
 ### Recent projects
-
 **[devcheck](https://github.com/ilyas-bkgo/devcheck)** — Go CLI that validates a dev environment (tools, paths, env vars, network services) against a YAML config. Timeout-protected checks, TTY-aware output, tested against pure functional core.
-
-
 **[expense-splitter-api](https://github.com/ilyas-bkgo/expense-splitter-api)** — FastAPI + PostgreSQL + Docker service that settles group debts with a greedy max-heap simplification algorithm.
 **Job Application Tracker** — Full-stack Kanban board: FastAPI/async SQLAlchemy backend, React 19 + TypeScript frontend with drag-and-drop and analytics dashboard.
+**[Flutter_mvp](https://github.com/ilyas-bkgo/Flutter_mvp)** — Cross-platform car rental app MVP: Flutter/Dart client, FastAPI backend, JWT auth, live booking flow with PostgreSQL-backed availability.
 
 ---
 
 ### Setup
 Fedora · Sway · kitty
-
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
 
 In my free time I like ricing my setup — you can catch some of it on [r/unixporn](https://www.reddit.com/r/LinuxPorn/s/qXJEytKL4w).
 
@@ -25,4 +23,6 @@ In my free time I like ricing my setup — you can catch some of it on [r/unixpo
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 </p>
