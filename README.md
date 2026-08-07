@@ -12,7 +12,7 @@ Enjoying learning and building things that work.
 ---
 
 ### Setup
-<img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" /> · Sway · kitty
+Fedora · Sway · kitty
 
 
 In my free time I like ricing my setup — you can catch some of it on [r/unixporn](https://www.reddit.com/r/LinuxPorn/s/qXJEytKL4w).
