@@ -2,15 +2,18 @@
 Enjoying learning and building things that work.
 
 ### Recent projects
+
 **[devcheck](https://github.com/ilyas-bkgo/devcheck)** — Go CLI that validates a dev environment (tools, paths, env vars, network services) against a YAML config. Timeout-protected checks, TTY-aware output, tested against pure functional core.
+
+
 **[expense-splitter-api](https://github.com/ilyas-bkgo/expense-splitter-api)** — FastAPI + PostgreSQL + Docker service that settles group debts with a greedy max-heap simplification algorithm.
 **Job Application Tracker** — Full-stack Kanban board: FastAPI/async SQLAlchemy backend, React 19 + TypeScript frontend with drag-and-drop and analytics dashboard.
 
 ---
 
 ### Setup
-Fedora · Sway · kitty
-<img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" /> · Sway · kitty
+
 
 In my free time I like ricing my setup — you can catch some of it on [r/unixporn](https://www.reddit.com/r/LinuxPorn/s/qXJEytKL4w).
 
