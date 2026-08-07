@@ -1,5 +1,5 @@
 # Ilyas fed
-Enjoying learning and building things that work.
+Learning and building things that work.
 
 ### Recent projects
 **[devcheck](https://github.com/ilyas-bkgo/devcheck)** — Go CLI that validates a dev environment (tools, paths, env vars, network services) against a YAML config. Timeout-protected checks, TTY-aware output, tested against pure functional core.
@@ -15,7 +15,7 @@ Enjoying learning and building things that work.
 ### Setup
 Fedora · Sway · kitty
 
-Ricing my setup in my free time — you can catch some of it on [r/unixporn](https://www.reddit.com/r/LinuxPorn/s/qXJEytKL4w).
+Ricing in my free time — you can catch some of it on [r/unixporn](https://www.reddit.com/r/LinuxPorn/s/qXJEytKL4w).
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
