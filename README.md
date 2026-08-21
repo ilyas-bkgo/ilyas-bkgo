@@ -9,6 +9,7 @@ Learning and building things that work.
 **Job Application Tracker** — Full-stack Kanban board: FastAPI/async SQLAlchemy backend, React 19 + TypeScript frontend with drag-and-drop and analytics dashboard.
 
 **[multithreaded-java-server](https://github.com/ilyas-bkgo/multithreaded-java-server)** — Multithreaded HTTP server built from scratch in Java using raw sockets and a thread-per-connection model to handle concurrent client requests.
+
 ---
 
 ### Setup
