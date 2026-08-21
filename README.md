@@ -8,15 +8,12 @@ Learning and building things that work.
 
 **Job Application Tracker** — Full-stack Kanban board: FastAPI/async SQLAlchemy backend, React 19 + TypeScript frontend with drag-and-drop and analytics dashboard.
 
-**[Flutter_mvp](https://github.com/ilyas-bkgo/Flutter_mvp)** — Cross-platform car rental app MVP: Flutter/Dart client, FastAPI backend, JWT auth, live booking flow with PostgreSQL-backed availability.
-
+**[multithreaded-java-server](https://github.com/ilyas-bkgo/multithreaded-java-server)** — Multithreaded HTTP server built from scratch in Java using raw sockets and a thread-per-connection model to handle concurrent client requests.
 ---
 
 ### Setup
 Fedora · Sway · kitty
-
 Ricing in my free time — you can catch some of it on [r/unixporn](https://www.reddit.com/r/LinuxPorn/s/qXJEytKL4w).
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -25,6 +22,5 @@ Ricing in my free time — you can catch some of it on [r/unixporn](https://www.
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
