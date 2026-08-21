@@ -1,5 +1,5 @@
 # Ilyas fed
-Learning and building things that work.
+Learning by building.
 
 ### Recent projects
 **[devcheck](https://github.com/ilyas-bkgo/devcheck)** — Go CLI that validates a dev environment (tools, paths, env vars, network services) against a YAML config. Timeout-protected checks, TTY-aware output, tested against pure functional core.
