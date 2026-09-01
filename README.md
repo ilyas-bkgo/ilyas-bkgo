@@ -14,7 +14,7 @@ Learning by building.
 
 ### Setup
 Fedora · Sway · kitty
-Ricing in my free time — you can catch some of it on [r/unixporn](https://www.reddit.com/r/LinuxPorn/s/qXJEytKL4w).
+Ricing in my free time .
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
